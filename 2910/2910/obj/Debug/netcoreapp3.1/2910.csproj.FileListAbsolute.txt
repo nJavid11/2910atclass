@@ -1,0 +1,14 @@
+C:\Users\tu201803071\source\repos\2910\2910\obj\Debug\netcoreapp3.1\2910.csproj.AssemblyReference.cache
+C:\Users\tu201803071\source\repos\2910\2910\obj\Debug\netcoreapp3.1\2910.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu201803071\source\repos\2910\2910\obj\Debug\netcoreapp3.1\2910.AssemblyInfoInputs.cache
+C:\Users\tu201803071\source\repos\2910\2910\obj\Debug\netcoreapp3.1\2910.AssemblyInfo.cs
+C:\Users\tu201803071\source\repos\2910\2910\obj\Debug\netcoreapp3.1\2910.csproj.CoreCompileInputs.cache
+C:\Users\tu201803071\source\repos\2910\2910\bin\Debug\netcoreapp3.1\2910.exe
+C:\Users\tu201803071\source\repos\2910\2910\bin\Debug\netcoreapp3.1\2910.deps.json
+C:\Users\tu201803071\source\repos\2910\2910\bin\Debug\netcoreapp3.1\2910.runtimeconfig.json
+C:\Users\tu201803071\source\repos\2910\2910\bin\Debug\netcoreapp3.1\2910.runtimeconfig.dev.json
+C:\Users\tu201803071\source\repos\2910\2910\bin\Debug\netcoreapp3.1\2910.dll
+C:\Users\tu201803071\source\repos\2910\2910\bin\Debug\netcoreapp3.1\2910.pdb
+C:\Users\tu201803071\source\repos\2910\2910\obj\Debug\netcoreapp3.1\2910.dll
+C:\Users\tu201803071\source\repos\2910\2910\obj\Debug\netcoreapp3.1\2910.pdb
+C:\Users\tu201803071\source\repos\2910\2910\obj\Debug\netcoreapp3.1\2910.genruntimeconfig.cache
